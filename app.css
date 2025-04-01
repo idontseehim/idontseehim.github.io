@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+  
+    background-color: #9d0098;
+    color: #4a004f;
+  
+    width: 980px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+  }
+  
+  main > h2 {
+    text-align: center;
+    font-size: 25px;
+  }
+  
